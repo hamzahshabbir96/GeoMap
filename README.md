@@ -10,6 +10,18 @@ This application can be used to find distance between two cities. Just enter cit
 
 [@Hamzahshabbir](https://github.com/hamzahshabbir96)
 
+## Acknowledgements
+
+ - [Django](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Folium](https://pypi.org/project/folium/0.1.5/)
+ - [maxmind.com](www.maxmind.com)
+
+## Screenshots
+
+![App Screenshot](mapdistance/static/3.JPG)
+![App Screenshot](mapdistance/static/3.JPG)
+
+
 
 ## Feedback
 
