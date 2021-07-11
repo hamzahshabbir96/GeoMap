@@ -5,7 +5,7 @@
 
 This application can be used to find distance between two cities. Just enter cities name in the source and destination text box. For example if you want to know
                 distance between Munich to Mumbai, just enter Munich in source.
-[Go to website](maphamzah.herokuapp.com)
+[Go to website](https://maphamzah.herokuapp.com/)
 
 ## views.py
 This script will run the function that will interpret context dictionary and substitute in base.html and main.html in place of django template tagging.
