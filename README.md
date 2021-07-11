@@ -6,7 +6,6 @@
 This application can be used to find distance between two cities. Just enter cities name in the source and destination text box. For example if you want to know
                 distance between Munich to Mumbai, just enter Munich in source.
 [Go to website](https://maphamzah.herokuapp.com/)
-![App Screenshot](mapdistance/static/flowcode.JPG)
 
 ## views.py
 This script will run the function that will interpret context dictionary and substitute in base.html and main.html in place of django template tagging.
@@ -48,6 +47,7 @@ This project calculates distance between two cities and represt in the form of e
 #### 2. Has this app been deployed? 
 
 Yes this app has been deployed on heroku cloud server. It can be followed from here : [Go to website](https://maphamzah.herokuapp.com/)
+![App Screenshot](images/flowcode.jpg)
 
 #### 3. Is it open source project?
 
