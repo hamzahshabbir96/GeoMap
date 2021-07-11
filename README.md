@@ -47,7 +47,7 @@ This project calculates distance between two cities and represt in the form of e
 #### 2. Has this app been deployed? 
 
 Yes this app has been deployed on heroku cloud server. It can be followed from here : [Go to website](https://maphamzah.herokuapp.com/)
-![App Screenshot](images/flowcode.jpg =25x25)
+![App Screenshot](images/flowcode.jpg){:height="50%" width="50%"}
 
 #### 3. Is it open source project?
 
