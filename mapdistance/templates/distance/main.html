@@ -1,1 +1,30 @@
 
+
+{% extends 'base.html' %}
+
+{% block title %}
+calculate distance
+{% endblock title %}
+
+
+
+{% block content %}
+
+
+
+
+<form action="" method="POST" autocomplete="off">
+  {% csrf_token %}
+  {{form.as_p}}
+  <button type="submit" class="btn btn-primary">Confirm</button>
+
+</form>
+<br>
+<br>
+<hr>
+The distance between cities is {{dist}}                                      
+<hr>
+{{map | safe}}
+
+
+{% endblock content %}
